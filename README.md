@@ -1,6 +1,6 @@
 # TCC previsão evasão escolar
 
-##🎓 Previsão de Evasão Escolar com Machine Learning
+#🎓 Previsão de Evasão Escolar com Machine Learning
 📌 Sobre o Projeto
 
 Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) do curso de Tecnologia em Sistemas para Internet.
